@@ -3,7 +3,7 @@
 int sum(int a, int b) {
 	return a + b;
 }
-// Khoa
+//Khoa
 int main() {
 
 	return 0;
