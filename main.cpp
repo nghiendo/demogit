@@ -5,6 +5,8 @@ int sum(int a, int b) {
 }
 // Kien
 int main() {
+	printf("Hello wold");
+
 
 	return 0;
 }
