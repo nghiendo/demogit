@@ -4,7 +4,6 @@ int sum(int a, int b) {
 	return a + b;
 }
 // Kien
-//comment
 int sum(int a, int b)
 {
 	return a + b;
@@ -14,3 +13,9 @@ int sum(int a, int b) {
 	return a + b;
 }
 // Quan
+
+// Bich
+int sum(int a, int b)
+{
+	return a + b;
+}
