@@ -4,8 +4,12 @@ int sum(int a, int b) {
 	return a + b;
 }
 // Kien
+//comment
+int sum(int a, int b)
+{
+	return a + b;
+}
 int main() {
-	printf("Hello wold");
 
 
 	return 0;
