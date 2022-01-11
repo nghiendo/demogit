@@ -1,13 +1,9 @@
 #include <stdio.h>
-// Ten cua ai nguoiw do lam nha
-int ab(int a, int b) {
-	return a * b;
-}
 
 int sum(int a, int b) {
 	return a + b;
 }
-
+// Khoa
 int main() {
 
 	return 0;
